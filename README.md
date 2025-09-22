@@ -3,7 +3,7 @@
 Una pequeña aplicación web para crear una lista de amigos y realizar un sorteo aleatorio para elegir al "amigo secreto". Está construida con HTML, CSS y JavaScript puro (sin frameworks) y pensada como ejercicio de lógica y manipulación del DOM.
 
 ## Demo
-- Despliegue en GitHub Pages para ver la aplicación en el navegador: `https://nicolas-000.github.io/amigo-secreto/`.
+- Despliegue en GitHub Pages para ver la aplicación en el navegador: [Amigo Secreto](https://nicolas-000.github.io/amigo-secreto/).
 
 ## Características
 - Añadir nombres a una lista de participantes.
